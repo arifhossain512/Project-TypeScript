@@ -74,11 +74,11 @@ Use this space to list resources you find helpful and would like to give credit 
 
 <!-- GITHUB URLS -->
 [linkedin-url]: https://linkedin.com/in/arifhossain512
-[license-url]: https://github.com/arifhossain512/Full-Stack-Clone/blob/master/LICENSE.txt
-[contributors-url]: https://github.com/arifhossain512/Full-Stack-Clone/graphs/contributors
-[forks-url]: https://github.com/arifhossain512/Full-Stack-Clone/network/members
-[stars-url]: https://github.com/arifhossain512/Full-Stack-Clone/stargazers
-[issues-url]: https://github.com/arifhossain512/Full-Stack-Clone/issues
+[license-url]: https://github.com/arifhossain512/Project-TypeScript/LICENSE.txt
+[contributors-url]: https://github.com/arifhossain512/Project-TypeScript/graphs/contributors
+[forks-url]: https://github.com/arifhossain512/Project-TypeScript/network/members
+[stars-url]: https://github.com/arifhossain512/Project-TypeScript/stargazers
+[issues-url]: https://github.com/arifhossain512/Project-TypeScript/issues
 
 <!-- BADGES -->
 
